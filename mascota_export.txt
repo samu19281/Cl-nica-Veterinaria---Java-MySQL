@@ -1,0 +1,3 @@
+Mascota: Lua (Gat)
+Edad: 3
+Propietario: Maria Puig
